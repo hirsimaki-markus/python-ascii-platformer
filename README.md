@@ -1,5 +1,5 @@
 # python-ascii-platformer
-python-ascii-platformer
+Command line platformer demo
 
 ![](https://raw.githubusercontent.com/hirsimaki-markus/python-ascii-platformer/master/ascii_platformer/ascii_platformer_gif.gif)
 
